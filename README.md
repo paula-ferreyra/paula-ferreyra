@@ -1,16 +1,15 @@
-## Hi there 👋
+Soy profesional de la comunicación con experiencia en UX, Project Management y Business Intelligence, enfocada en transformar problemas complejos en soluciones medibles.
 
-<!--
-**paula-ferreyra/paula-ferreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabajo con un enfoque humano:
+📈 Orientado a resultados (PM)
+🧠 Centrado en el usuario (UX)
+📊 Data-driven (BI)
 
-Here are some ideas to get you started:
+🚀 Qué hago
+Gestiono proyectos con foco en cumplimiento, tiempos y ROI
+Analizo datos para tomar decisiones de negocio
+Diseño experiencias digitales basadas en insights reales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente estoy aprendiendo Business Intelligence y Funtamentos de AI
+
+📫Para contactarme: apferreyra@gmail.com
