@@ -1,14 +1,14 @@
-Soy profesional de la comunicación con experiencia en UX, Project Management y Business Intelligence, enfocada en transformar problemas complejos en soluciones medibles.
+Soy profesional de la comunicación con experiencia en UX y Project Management, enfocada en transformar problemas complejos en soluciones medibles.
 
 Trabajo con un enfoque humano:
-📈 Orientado a resultados (PM)
 🧠 Centrado en el usuario (UX)
+📈 Orientado a resultados (PM)
 📊 Data-driven (BI)
 
 🚀 Qué hago
+Diseño experiencias digitales basadas en insights reales
 Gestiono proyectos con foco en cumplimiento, tiempos y ROI
 Analizo datos para tomar decisiones de negocio
-Diseño experiencias digitales basadas en insights reales
 
 🌱 Actualmente estoy aprendiendo Business Intelligence y Funtamentos de AI
 
