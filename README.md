@@ -1,4 +1,4 @@
-Soy profesional de la comunicación con conocimiento en UX enfocada en transformar problemas complejos en soluciones medibles.
+Soy una profesional de la comunicación con conocimiento en UX enfocada en transformar problemas complejos en soluciones medibles.
 
 Trabajo con un enfoque humano:
 🧠 Centrado en el usuario 
